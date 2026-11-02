@@ -1,0 +1,3 @@
+[submodule "lib/odin-win32"]
+	path = lib/odin-win32
+	url = https://github.com/volatxs/odin-win32
